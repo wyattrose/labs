@@ -20,6 +20,7 @@ public class Problem1 {
 
         System.out.println("\n"+t.toString());
 
+        input.close();
     }
 }
 

@@ -30,6 +30,8 @@ public class Problem2 {
         for(int i : arr) {
             System.out.printf(" %s",i);
         }
+
+        in.close();
     }
 
     /*
