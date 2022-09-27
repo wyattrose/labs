@@ -9,7 +9,8 @@ public class Problem1 {
 }
 
 class MyInteger {
-    private int value;
+
+    private int value; // fields
 
     public MyInteger(int value) { this.value = value; }
 
