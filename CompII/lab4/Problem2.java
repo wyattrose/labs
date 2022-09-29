@@ -17,5 +17,4 @@ class RoomPeople {
     }
     public int getNumber() { return this.numberInRoom; }
     public static int getTotal() { return totalNumber; }
-
 }
