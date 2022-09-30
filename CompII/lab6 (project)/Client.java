@@ -4,7 +4,10 @@ public class Client { // ( ⓛ ω ⓛ *) *MEOW* start of class!
 
     public static void main(String[] args) { // maybe name 'args' something different next time...
 
+        System.out.println("*meow* program STARTED!\n");
+
         Scanner input = new Scanner(System.in); // initialize the scanner for user input! 
+
         double[] values = new double[5]; // create a new array! (the program specified five values...)
 
         System.out.printf("Input five values: "); // prompt the user for input (otherwise how will they know?)
@@ -24,4 +27,7 @@ public class Client { // ( ⓛ ω ⓛ *) *MEOW* start of class!
 
         input.close(); // don't forget to close the scanner! (doesn't really matter here though... since the program terminates next line!)
     }
+
+
+    
 } // ᓚᘏᗢ *meow* <end of class!>
